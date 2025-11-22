@@ -1,0 +1,6 @@
+Django==5.2.4
+psycopg2==2.9.10
+psycopg2-binary==2.9.10
+python-dotenv==1.2.1
+reportlab==4.4.3
+twilio==9.8.5
